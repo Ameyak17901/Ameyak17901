@@ -1,17 +1,17 @@
-### Hi there 👋 I am Ameya
+## Hi there 👋 I am Ameya
 
 - 🌱 I’m currently learning Development Technologies
 - 📫 How to reach me: ameyak2001@gmail.com
   
 ## Tech Stack
 
-# MERN
+### MERN
 - MongoDB
 - Express Js
 - React Js
 - Node Js
 
-# Java
+### Java
 - J2EE
 - Hibernate
 - JSP Servlet
