@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Ameya
 
-- 🌱 I’m currently learning Development Technologies
+- 🌱 I’m currently learning Software Development Technologies
 - 📫 How to reach me: ameyak2001@gmail.com
   
 ## Tech Stack
