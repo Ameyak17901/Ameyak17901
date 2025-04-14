@@ -15,4 +15,9 @@
 - J2EE
 - Hibernate
 - JSP Servlet
-- JPA  
+- JPA
+
+### FARM:
+- FastAPI
+- React Js
+- MongoDB
